@@ -1,0 +1,29 @@
+div {
+    margin: 0 15%;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+    padding-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: separate;
+}
+
+th, td, table > caption {
+    border: 1px solid black;
+}
+.imgFigcaption
+{
+    font-style: italic;
+}
+figure
+{
+    float:right;
+}
